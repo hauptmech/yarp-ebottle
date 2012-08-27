@@ -28,6 +28,8 @@
 
 #include "eBottle.h"
 #include <yarp/os/all.h>
+#include <cstdlib>
+#include <cstring>
 #include <string>
 #include <sstream>
 #include <vector>

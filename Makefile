@@ -1,6 +1,6 @@
 CC=g++
 CXXFLAGS=-c -Wall -g -ggdb
-LDFLAGS= /usr/local/lib/libYARP_OS.a -lACE
+LDFLAGS= -lYARP_OS -lYARP_init -lACE
 SOURCES=main.cc eBottle.cc
 OBJECTS=$(SOURCES:.cc=.o)
 EXECUTABLE=eBottleTest
