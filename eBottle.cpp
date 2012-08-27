@@ -26,7 +26,7 @@
  *
  *-------------------------------------------------------------------------*/
 
-#include "eBottle.h"
+#include <yarp/os/eBottle.h>
 #include <yarp/os/all.h>
 #include <cstdlib>
 #include <cstring>

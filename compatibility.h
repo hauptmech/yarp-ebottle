@@ -112,7 +112,7 @@
 
 #ifdef EBOTTLE
 
-#include "eBottle.h"
+#include <yarp/os/eBottle.h>
 
 /**
  * Redefines the <a href='http://eris.liralab.it/yarp/specs/dox/user/html/d3/d3e/classyarp_1_1os_1_1Bottle.html'>YARP Bottle</a> as eBottle
